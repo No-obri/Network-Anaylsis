@@ -1,0 +1,5 @@
+rich
+speedtest-cli
+requests
+beautifulsoup4
+networkx 
